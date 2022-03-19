@@ -1,0 +1,1017 @@
+[
+  {
+    "id": "1.1.1",
+    "sdgId": "1.1",
+    "content": "Proportion of population below international poverty line disaggregated by sex and age group and employment status (or: Proportion of employed people living below the international poverty line)"  },
+  {
+    "id": "1.2.1",
+    "sdgId": "1.2",
+    "content": "Proportion of population living below national poverty line, disaggregated by sex and age group"  },
+  {
+    "id": "1.2.2",
+    "sdgId": "1.2",
+    "content": "Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions"  },
+  {
+    "id": "1.3.1",
+    "sdgId": "1.3",
+    "content": "Percentage of the population covered by social protection floors/systems, disaggregated by sex, and distinguishing children, unemployed, old age, people with disabilities, pregnant women/new-borns, work injury victims, poor and vulnerable"  },
+  {
+    "id": "1.4.1",
+    "sdgId": "1.4",
+    "content": "Proportion of the population living in households with access to basic services."  },
+  {
+    "id": "1.5.1",
+    "sdgId": "1.5",
+    "content": "Number of deaths, missing people, injured, relocated or evacuated due to disasters per 100,000 people."  },
+  {
+    "id": "1.a.1",
+    "sdgId": "1.a",
+    "content": "Percentage of resources allocated by the government directly to poverty reduction programmes"  },
+  {
+    "id": "1.a.2",
+    "sdgId": "1.a",
+    "content": "Spending on essential services (education, health and social protection) as % of total government spending"  },
+  {
+    "id": "1.b.1",
+    "sdgId": "1.b",
+    "content": "Number of national action plans related to multi-lateral environmental agreements that support accelerated investment in actions that eradicate poverty and sustainably use natural resources."  },
+  {
+    "id": "2.1.1",
+    "sdgId": "2.1",
+    "content": "Prevalence of undernourishment"  },
+  {
+    "id": "2.1.2",
+    "sdgId": "2.1",
+    "content": "Prevalence of population with moderate or severe food insecurity, based on the Food Insecurity Experience Scale (FIES)"  },
+  {
+    "id": "2.2.1",
+    "sdgId": "2.2",
+    "content": "Prevalence of stunting (height for age <-2 SD from the median of the WHO Child Growth Standards) among children under five years of age"  },
+  {
+    "id": "2.2.2",
+    "sdgId": "2.2",
+    "content": "Prevalence of wasting"  },
+  {
+    "id": "2.3.1",
+    "sdgId": "2.3",
+    "content": "Volume of production per labour unit (measured in constant USD), by classes of farming/pastoral/forestry enterprise size"  },
+  {
+    "id": "2.3.2",
+    "sdgId": "2.3",
+    "content": "Total Factor Productivity"  },
+  {
+    "id": "2.4.1",
+    "sdgId": "2.4",
+    "content": "Percentage of agricultural area under sustainable agricultural practices."  },
+  {
+    "id": "2.4.2",
+    "sdgId": "2.4",
+    "content": "Percent of agricultural households using irrigation systems compared to all agricultural households"  },
+  {
+    "id": "2.4.3",
+    "sdgId": "2.4",
+    "content": "Percent of agricultural households using eco-friendly fertilizers compared to all agricultural households using fertilizers"  },
+  {
+    "id": "2.5.1",
+    "sdgId": "2.5",
+    "content": "Ex-Situ Crop Collections Enrichment index"  },
+  {
+    "id": "2.5.2",
+    "sdgId": "2.5",
+    "content": "Percentage of local crops and breeds and their wild relatives, classified as being at-risk, not at-risk or unknown level of risk of extinction"  },
+  {
+    "id": "2.a.1",
+    "sdgId": "2.a",
+    "content": "The Agriculture Orientation Index (AOI) for Government Expenditures"  },
+  {
+    "id": "2.b.1",
+    "sdgId": "2.b",
+    "content": "Percent change in Import and Export tariffs on agricultural products"  },
+  {
+    "id": "2.b.2",
+    "sdgId": "2.b",
+    "content": "Agricultural Export Subsidies"  },
+  {
+    "id": "2.c.1",
+    "sdgId": "2.c",
+    "content": "Indicator of (food) Price Anomalies (IPA)"  },
+  {
+    "id": "3.1.1",
+    "sdgId": "3.1",
+    "content": "Maternal deaths per 100,000 live births"  },
+  {
+    "id": "3.1.2",
+    "sdgId": "3.1",
+    "content": "Proportion of births attended by skilled health personnel"  },
+  {
+    "id": "3.2.1",
+    "sdgId": "3.2",
+    "content": "Under-five mortality rate (deaths per 1,000 live births)"  },
+  {
+    "id": "3.2.2",
+    "sdgId": "3.2",
+    "content": "Neonatal mortality rate (deaths per 1,000 live births)"  },
+  {
+    "id": "3.3.1",
+    "sdgId": "3.3",
+    "content": "Number of new HIV infections per 1,000 uninfected population (by age, sex, and key populations)"  },
+  {
+    "id": "3.3.2",
+    "sdgId": "3.3",
+    "content": "TB incidence per 1,000 persons per year"  },
+  {
+    "id": "3.3.3",
+    "sdgId": "3.3",
+    "content": "Malaria incident cases per 1,000 person per year"  },
+  {
+    "id": "3.3.4",
+    "sdgId": "3.3",
+    "content": "Estimated number of new hepatitis B infections per 100,000 population in a given year"  },
+  {
+    "id": "3.3.5",
+    "sdgId": "3.3",
+    "content": "Number of people requiring interventions against neglected tropical diseases"  },
+  {
+    "id": "3.4.1",
+    "sdgId": "3.4",
+    "content": "Probability of dying of cardiovascular disease, cancer, diabetes, or chronic respiratory disease"  },
+  {
+    "id": "3.4.2",
+    "sdgId": "3.4",
+    "content": "Suicide mortality rate"  },
+  {
+    "id": "3.5.1",
+    "sdgId": "3.5",
+    "content": "Coverage of treatment interventions (pharmacological, psychosocial and rehabilitation and aftercare services) for substance abuse disorders"  },
+  {
+    "id": "3.5.2",
+    "sdgId": "3.5",
+    "content": "Harmful use of alcohol defined according to national context as alcohol per capita (15+ years old) consumption within a calendar year in litres of pure alcohol"  },
+  {
+    "id": "3.6.1",
+    "sdgId": "3.6",
+    "content": "Number of road traffic fatal injury deaths per 100,000 population (age-standardized)"  },
+  {
+    "id": "3.7.1",
+    "sdgId": "3.7",
+    "content": "Percentage of women of reproductive age (15-49 years) who have their need for family planning satisfied with modern methods"  },
+  {
+    "id": "3.7.2",
+    "sdgId": "3.7",
+    "content": "Adolescent birth rate (10-14; 15-19) per 1,000 women in that age group"  },
+  {
+    "id": "3.8.1",
+    "sdgId": "3.8",
+    "content": "Coverage of tracer interventions (e.g. child full immunization, ARV therapy, TB treatment, hypertension treatment, skilled attendant at birth, etc.)"  },
+  {
+    "id": "3.8.2",
+    "sdgId": "3.8",
+    "content": "Fraction of the population protected against catastrophic/impoverishing out-of-pocket health expenditure"  },
+  {
+    "id": "3.9.1",
+    "sdgId": "3.9",
+    "content": "Population in urban areas exposed to outdoor air pollution levels above WHO guideline values"  },
+  {
+    "id": "3.9.2",
+    "sdgId": "3.9",
+    "content": "Mortality rate attributed to hazardous chemicals, water and soil pollution and contamination"  },
+  {
+    "id": "3.a.1",
+    "sdgId": "3.a",
+    "content": "Tobacco use among persons 18 years and older (Age-standardized prevalence of current tobacco use among persons aged 18 years and older)"  },
+  {
+    "id": "3.b.1",
+    "sdgId": "3.b",
+    "content": "Proportion of population with access to affordable essential medicines on a sustainable basis"  },
+  {
+    "id": "3.b.2",
+    "sdgId": "3.b",
+    "content": "Total net official development assistance to the medical research and basic health sectors"  },
+  {
+    "id": "3.c.1",
+    "sdgId": "3.c",
+    "content": "Health worker density and distribution"  },
+  {
+    "id": "3.d.1",
+    "sdgId": "3.d",
+    "content": "Percentage of attributes of 13 core capacities that have been attained at a specific point in time"  },
+  {
+    "id": "4.1.1",
+    "sdgId": "4.1",
+    "content": "Percentage of children/young people at the end of each level of education achieving at least a minimum proficiency level in (a) reading and (b) mathematics. (Disaggregations: sex, location, wealth (and others where data are available))"  },
+  {
+    "id": "4.2.1",
+    "sdgId": "4.2",
+    "content": "Percentage of children under 5 years of age who are developmentally on track in health, learning and psychosocial well-being (Disaggregations: sex, location, wealth (and others where data are available))"  },
+  {
+    "id": "4.2.2",
+    "sdgId": "4.2",
+    "content": "Participation rate in organized learning (one year before the official primary entry age)"  },
+  {
+    "id": "4.3.1",
+    "sdgId": "4.3",
+    "content": "Participation rate of adults in formal and non-formal education and training in the last 12 months"  },
+  {
+    "id": "4.4.1",
+    "sdgId": "4.4",
+    "content": "Percentage of youth/adults with ICT skills by type of skill"  },
+  {
+    "id": "4.5.1",
+    "sdgId": "4.5",
+    "content": "Parity indices (female/male, urban/rural, bottom/top wealth quintile) for all indicators on this list that can be disaggregated"  },
+  {
+    "id": "4.6.1",
+    "sdgId": "4.6",
+    "content": "Percentage of the population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy and (b) numeracy skills. (Disaggregations: sex, location, wealth (and others where data are available))"  },
+  {
+    "id": "4.7.1",
+    "sdgId": "4.7",
+    "content": "Percentage of 15-year old students enrolled in secondary school demonstrating at least a fixed level of knowledge across a selection of topics in environmental science and geoscience. The exact choice/range of topics will depend on the survey or assessment in which the indicator is collected. (Disaggregations: sex and location (and others where data are available))"  },
+  {
+    "id": "4.a.1",
+    "sdgId": "4.a",
+    "content": "Percentage of schools with access to (i) electricity; (ii) Internet for pedagogical purposes (iii) basic drinking water; (iv) basic sanitation facilities; and (v) basic hand-washing facilities (as per the WASH indicator definitions)"  },
+  {
+    "id": "4.b.1",
+    "sdgId": "4.b",
+    "content": "Volume of ODA flows for scholarships by sector and type of study; Total net official development assistance (ODA) for scholarships and student costs in donor countries (types of aid E01 and E02). Data expressed in US dollars at the average annual exchange rate."  },
+  {
+    "id": "4.c.1",
+    "sdgId": "4.c",
+    "content": "Percentage of teachers in (i) pre-primary (ii) primary, (iii) lower secondary and (iv) upper secondary education who have received at least the minimum organized teacher (i.e. pedagogical training) pre-service or in-service required for teaching at the relevant level in a given country. (Disaggregations: sex (and others where data are available))"  },
+  {
+    "id": "5.1.1",
+    "sdgId": "5.1",
+    "content": "Whether or not legal frameworks are in place to promote equality and non-discrimination on the basis of sex"  },
+  {
+    "id": "5.2.1",
+    "sdgId": "5.2",
+    "content": "Proportion of ever-partnered women and girls (aged 15-49) subjected to physical and/or sexual violence by a current or former intimate partner, in the last 12 months"  },
+  {
+    "id": "5.2.2",
+    "sdgId": "5.2",
+    "content": "Proportion of women and girls (aged 15-49) subjected to sexual violence by persons other than an intimate partner, since age 15"  },
+  {
+    "id": "5.3.1",
+    "sdgId": "5.3",
+    "content": "Percentage of women aged 20-24 who were married or in a union before age 18 (i.e. child marriage)"  },
+  {
+    "id": "5.3.2",
+    "sdgId": "5.3",
+    "content": "Percentage of girls and women aged 15-49 years who have undergone FGM/C, by age group (for relevant countries only)"  },
+  {
+    "id": "5.4.1",
+    "sdgId": "5.4",
+    "content": "Percentage of time spent on unpaid domestic and care work, by sex, age and location"  },
+  {
+    "id": "5.5.1",
+    "sdgId": "5.5",
+    "content": "Proportion of seats held by women in national parliaments and local governments"  },
+  {
+    "id": "5.5.2",
+    "sdgId": "5.5",
+    "content": "Proportion of women in managerial positions"  },
+  {
+    "id": "5.6.1",
+    "sdgId": "5.6",
+    "content": "Proportion of women (aged 15-49) who make their own sexual and reproductive decisions."  },
+  {
+    "id": "5.6.2",
+    "sdgId": "5.6",
+    "content": "Proportion of countries with laws and regulations that guarantee all women and adolescents access to sexual and reproductive health services, information and education (official records)"  },
+  {
+    "id": "5.a.1",
+    "sdgId": "5.a",
+    "content": "a) Percentage of people with ownership or secure rights over agricultural land (out of total agricultural population), by sex; and b) Share of women among owners or rights-bearers of agricultural land, by type of tenure."  },
+  {
+    "id": "5.a.2",
+    "sdgId": "5.a",
+    "content": "The legal framework includes special measures to guarantee women's equal rights to land ownership and control."  },
+  {
+    "id": "5.b.1",
+    "sdgId": "5.b",
+    "content": "Proportion of individuals who own a mobile telephone, by sex"  },
+  {
+    "id": "5.c.1",
+    "sdgId": "5.c",
+    "content": "Percentage of countries with systems to track and make public allocations for gender equality and women's empowerment"  },
+  {
+    "id": "6.1.1",
+    "sdgId": "6.1",
+    "content": "Percentage of population using safely managed drinking water services"  },
+  {
+    "id": "6.2.1",
+    "sdgId": "6.2",
+    "content": "Percentage of population using safely managed sanitation services"  },
+  {
+    "id": "6.3.1",
+    "sdgId": "6.3",
+    "content": "Percentage of wastewater safely treated, disaggregated by economic activity"  },
+  {
+    "id": "6.3.2",
+    "sdgId": "6.3",
+    "content": "Percentage of receiving water bodies with ambient water quality not presenting risk to the environment or human health"  },
+  {
+    "id": "6.4.1",
+    "sdgId": "6.4",
+    "content": "Percentage change in water use efficiency over time."  },
+  {
+    "id": "6.4.2",
+    "sdgId": "6.4",
+    "content": "Percentage of total available water resources used, taking environmental water requirements into account (Level of Water Stress)"  },
+  {
+    "id": "6.5.1",
+    "sdgId": "6.5",
+    "content": "Degree of integrated water resources management (IWRM) implementation (0-100)"  },
+  {
+    "id": "6.6.1",
+    "sdgId": "6.6",
+    "content": "Percentage of change in fresh water ecosystem"  },
+  {
+    "id": "6.a.1",
+    "sdgId": "6.a",
+    "content": "ODA for water and sanitation related activities and programmes"  },
+  {
+    "id": "6.b.1",
+    "sdgId": "6.b",
+    "content": "Percentage of local administrative units with established and operational policies and procedures for participation of local communities in water and sanitation management."  },
+  {
+    "id": "7.1.1",
+    "sdgId": "7.1",
+    "content": "Percentage of population with electricity access (%)"  },
+  {
+    "id": "7.1.2",
+    "sdgId": "7.1",
+    "content": "Percentage of population with primary reliance on clean fuels and technology"  },
+  {
+    "id": "7.2.1",
+    "sdgId": "7.2",
+    "content": "Renewable energy share in the total final energy consumption (%); or Renewable energy share in the total primary energy consumption (%)"  },
+  {
+    "id": "7.3.1",
+    "sdgId": "7.3",
+    "content": "Rate of improvement in energy intensity (%) measured in terms of primary energy and GDP"  },
+  {
+    "id": "7.a.1",
+    "sdgId": "7.a",
+    "content": "Mobilized amount of USD per year starting in 2020 accountable towards the USD 100 billion commitment"  },
+  {
+    "id": "7.b.1",
+    "sdgId": "7.b",
+    "content": "Ratio of value added to net domestic energy use, by industry."  },
+  {
+    "id": "8.1.1",
+    "sdgId": "8.1",
+    "content": "GDP per capita, PPP"  },
+  {
+    "id": "8.2.1",
+    "sdgId": "8.2",
+    "content": "Growth rate of GDP per employed person"  },
+  {
+    "id": "8.3.1",
+    "sdgId": "8.3",
+    "content": "Share of informal employment in non-agriculture employment by sex."  },
+  {
+    "id": "8.4.1",
+    "sdgId": "8.4",
+    "content": "Resource productivity."  },
+  {
+    "id": "8.5.1",
+    "sdgId": "8.5",
+    "content": "Average hourly earnings of female and male employees by occupations (Wages/Gender wage gap)"  },
+  {
+    "id": "8.5.2",
+    "sdgId": "8.5",
+    "content": "Unemployment rate by sex, age-group and disability."  },
+  {
+    "id": "8.6.1",
+    "sdgId": "8.6",
+    "content": "Percentage of youth (15-24) not in education, employment or training (NEET)"  },
+  {
+    "id": "8.7.1",
+    "sdgId": "8.7",
+    "content": "Percentage and number of children aged 5-17 years engaged in child labour, per sex and age group (disaggregated by the worst forms of child labour)"  },
+  {
+    "id": "8.8.1",
+    "sdgId": "8.8",
+    "content": "Frequency rates of fatal and non-fatal occupational injuries and time lost due to occupational injuries by gender and migrant status"  },
+  {
+    "id": "8.8.2",
+    "sdgId": "8.8",
+    "content": "Number of ILO conventions ratified by type of convention"  },
+  {
+    "id": "8.9.1",
+    "sdgId": "8.9",
+    "content": "Tourism direct GDP (as % of total GDP and in growth rate); and Number of jobs in tourism industries (as % total jobs and growth rate of jobs, by sex)"  },
+  {
+    "id": "8.10.1",
+    "sdgId": "8.10",
+    "content": "Number of commercial bank branches and ATMs per 100,000 adults"  },
+  {
+    "id": "8.10.2",
+    "sdgId": "8.10",
+    "content": "% of adults with a formal account or personally using a mobile money service in the past 12 months. Possible to have a break down by income e.g. bottom 40% of income share or <$1.25/day, by gender, age (youth) and rural. Adults: ages 15+"  },
+  {
+    "id": "8.a.1",
+    "sdgId": "8.a",
+    "content": "Aid for Trade Commitments and Disbursements"  },
+  {
+    "id": "8.b.1",
+    "sdgId": "8.b",
+    "content": "Total government spending in social protection and employment programmes as percentage of the national budgets and GDP and collective bargaining rates"  },
+  {
+    "id": "9.1.1",
+    "sdgId": "9.1",
+    "content": "Share of the rural population who live within 2km of an all season road"  },
+  {
+    "id": "9.1.2",
+    "sdgId": "9.1",
+    "content": "Passenger and freight volumes"  },
+  {
+    "id": "9.2.1",
+    "sdgId": "9.2",
+    "content": "Manufacturing Value Added in share of total value added"  },
+  {
+    "id": "9.2.2",
+    "sdgId": "9.2",
+    "content": "Manufacturing employment, in percent to total employment"  },
+  {
+    "id": "9.3.1",
+    "sdgId": "9.3",
+    "content": "Percentage share of (M) small scale industries' value added in total industry value added"  },
+  {
+    "id": "9.3.2",
+    "sdgId": "9.3",
+    "content": "Percentage of SME with a loan or line of credit"  },
+  {
+    "id": "9.4.1",
+    "sdgId": "9.4",
+    "content": "Carbon emission per unit of value added"  },
+  {
+    "id": "9.5.1",
+    "sdgId": "9.5",
+    "content": "R&D expenditure as a percentage of GDP"  },
+  {
+    "id": "9.a.1",
+    "sdgId": "9.a",
+    "content": "Amount of investments in infrastructure as a % of GDP"  },
+  {
+    "id": "9.b.1",
+    "sdgId": "9.b",
+    "content": "Percentage share of medium and high-tech (MHT) industry value added in total value added"  },
+  {
+    "id": "9.c.1",
+    "sdgId": "9.c",
+    "content": "Percentage of the population covered by a mobile network, by technology"  },
+  {
+    "id": "10.1.1",
+    "sdgId": "10.1",
+    "content": "Growth rates of household expenditure or income per capita among the bottom 40 percent of the population and the total population"
+  },
+  {
+    "id": "10.2.1",
+    "sdgId": "10.2",
+    "content": "Proportion of people living below 50% of median income disaggregated by age and sex"
+  },
+  {
+    "id": "10.3.1",
+    "sdgId": "10.3",
+    "content": "Percentage of population reporting having personally felt discriminated against or harassed within the last 12 months on the basis of a ground of discrimination prohibited under international human rights law"
+  },
+  {
+    "id": "10.4.1",
+    "sdgId": "10.4",
+    "content": "Labour share of GDP, comprising wages and social protection transfers"
+  },
+  {
+    "id": "10.5.1",
+    "sdgId": "10.5",
+    "content": "Adoption of a financial transaction tax (Tobin tax) at a world level"
+  },
+  {
+    "id": "10.6.1",
+    "sdgId": "10.6",
+    "content": "Percentage of members or voting rights of developing countries in international organizations."
+  },
+  {
+    "id": "10.7.1",
+    "sdgId": "10.7",
+    "content": "Recruitment cost born by employee as percentage of yearly income earned in country of destination."
+  },
+  {
+    "id": "10.7.2",
+    "sdgId": "10.7",
+    "content": "International Migration Policy Index"
+  },
+  {
+    "id": "10.7.3",
+    "sdgId": "10.7",
+    "content": "Number of detected and non-detected victims of human trafficking per 100,000; by sex, age and form of exploitation"
+  },
+  {
+    "id": "10.a.1",
+    "sdgId": "10.a",
+    "content": "Share of tariff lines applied to imports from LDCs/developing countries with zero-tariff"
+  },
+  {
+    "id": "10.b.1",
+    "sdgId": "10.b",
+    "content": "OECD ODA data, disaggregated by recipient and donor countries"
+  },
+  {
+    "id": "10.c.1",
+    "sdgId": "10.c",
+    "content": "Remittance costs as a percentage of the amount remitted"
+  },
+  {
+    "id": "11.1.1",
+    "sdgId": "11.1",
+    "content": "Proportion of urban population living in slums, informal settlement, or inadequate housing"
+  },
+  {
+    "id": "11.2.1",
+    "sdgId": "11.2",
+    "content": "Proportion of the population that has convenient access to public transport"
+  },
+  {
+    "id": "11.3.1",
+    "sdgId": "11.3",
+    "content": "Ratio of land consumption rate to population growth rate"
+  },
+  {
+    "id": "11.3.2",
+    "sdgId": "11.3",
+    "content": "Percentage of cities with direct participation structure of civil society in urban planning and management, which operates regularly and democratically"
+  },
+  {
+    "id": "11.4.1",
+    "sdgId": "11.4",
+    "content": "Share of national (or municipal) budget which is dedicated to preservation, protection and conservation of national cultural natural heritage including World Heritage sites"
+  },
+  {
+    "id": "11.5.1",
+    "sdgId": "11.5",
+    "content": "Number of deaths, missing people, injured, relocated or evacuated due to disasters per 100,000 people."
+  },
+  {
+    "id": "11.6.1",
+    "sdgId": "11.6",
+    "content": "Percentage of urban solid waste regularly collected and with adequate final discharge with regards to the total waste generated by the city."
+  },
+  {
+    "id": "11.6.2",
+    "sdgId": "11.6",
+    "content": "Annual mean levels of fine particulate matter (i.e. PM2.5 and PM10) in cities (population weighted)"
+  },
+  {
+    "id": "11.7.1",
+    "sdgId": "11.7",
+    "content": "The average share of the built-up area of cities that is open space in public use for all"
+  },
+  {
+    "id": "11.7.2",
+    "sdgId": "11.7",
+    "content": "Proportion of women subjected to physical or sexual harassment by perpetrator and place of occurrence (last 12 months)"
+  },
+  {
+    "id": "11.a.1",
+    "sdgId": "11.a",
+    "content": "Cities with more than 100,000 inhabitants that implement urban and regional development plans integrating population projections and resource needs"
+  },
+  {
+    "id": "11.b.1",
+    "sdgId": "11.b",
+    "content": "Percent of cities that are implementing risk reduction and resilience strategies aligned with accepted international frameworks (such as the successor to the Hyogo Framework for Action on Disaster Risk Reduction) that include vulnerable and marginalized groups in their design, implementation and monitoring."
+  },
+  {
+    "id": "11.c.1",
+    "sdgId": "11.c",
+    "content": "Percentage of financial support that is allocated to the construction and retrofitting of sustainable, resilient and resource-efficient buildings"
+  },
+  {
+    "id": "12.1.1",
+    "sdgId": "12.1",
+    "content": "Number of countries with SCP National Actions Plans or SCP mainstreamed as a priority or target into national policies, poverty reduction strategies and sustainable development strategies"
+  },
+  {
+    "id": "12.2.1",
+    "sdgId": "12.2",
+    "content": "Material footprint (MF) and MF/capita"
+  },
+  {
+    "id": "12.3.1",
+    "sdgId": "12.3",
+    "content": "Global Food Loss Index (GFLI)"
+  },
+  {
+    "id": "12.4.1",
+    "sdgId": "12.4",
+    "content": "Number of Parties to international multilateral environmental agreements on hazardous and other chemicals and waste that meet their commitments and obligations in transmitting information as required by each relevant agreement"
+  },
+  {
+    "id": "12.4.2",
+    "sdgId": "12.4",
+    "content": "Treatment of waste, generation of hazardous waste (tonnes), hazardous waste management by type of treatment"
+  },
+  {
+    "id": "12.5.1",
+    "sdgId": "12.5",
+    "content": "National recycling rate, tonnes of material recycled"
+  },
+  {
+    "id": "12.6.1",
+    "sdgId": "12.6",
+    "content": "Number of companies publishing sustainability reports"
+  },
+  {
+    "id": "12.7.1",
+    "sdgId": "12.7",
+    "content": "Number of countries implementing Sustainable Public Procurement policies and action plans"
+  },
+  {
+    "id": "12.8.1",
+    "sdgId": "12.8",
+    "content": "Percentage of educational institutions with formal and informal education curricula on sustainable development and lifestyle topics"
+  },
+  {
+    "id": "12.a.1",
+    "sdgId": "12.a",
+    "content": "Number of qualified green patent applications over total"
+  },
+  {
+    "id": "12.b.1",
+    "sdgId": "12.b",
+    "content": "Residual flows generated as a result of tourism direct GDP (derived from an extended version of the System of Environmental-Economic Accounting (SEEA) for tourism)"
+  },
+  {
+    "id": "12.c.1",
+    "sdgId": "12.c",
+    "content": "Amount of fossil fuel subsidies, per unit of GDP (production and consumption), and as proportion of total national expenditure on fossil fuels"
+  },
+  {
+    "id": "13.1.1",
+    "sdgId": "13.1",
+    "content": "Number of deaths, missing people, injured, relocated or evacuated due to disasters per 100,000 people."
+  },
+  {
+    "id": "13.2.1",
+    "sdgId": "13.2",
+    "content": "Number of countries that have formally communicated the establishment of integrated low-carbon, climate-resilient, disaster risk reduction development strategies (e.g. a national adaptation plan process, national policies and measures to promote transition to environmentally-friendly substances and technologies)."
+  },
+  {
+    "id": "13.3.1",
+    "sdgId": "13.3",
+    "content": "Number of countries that have integrated mitigation, adaptation, impact reduction and early warning into primary, secondary and tertiary curricula"
+  },
+  {
+    "id": "13.a.1",
+    "sdgId": "13.a",
+    "content": "Mobilized amount of USD per year starting in 2020 accountable towards the USD 100 billion commitment"
+  },
+  {
+    "id": "13.b.1",
+    "sdgId": "13.b",
+    "content": "Number of LDCs and SIDs that are receiving specialized support for mechanisms for raising capacities for effective climate change related planning and management, including focusing on women, youth, local and marginalized communities"
+  },
+  {
+    "id": "14.1.1",
+    "sdgId": "14.1",
+    "content": "Nitrogen use efficiency composite indicator"
+  },
+  {
+    "id": "14.2.1",
+    "sdgId": "14.2",
+    "content": "% of coastal and marine development (to be defined) with formulated or implemented ICM/MSP plans (that are harmonized where applicable), based on an ecosystem approach, that builds resilient human communities and ecosystems and provides for equitable sharing and decent work"
+  },
+  {
+    "id": "14.3.1",
+    "sdgId": "14.3",
+    "content": "Average marine acidity (pH) measured at agreed suite of representative sampling stations"
+  },
+  {
+    "id": "14.4.1",
+    "sdgId": "14.4",
+    "content": "Proportion of fish stocks within biologically sustainable level"
+  },
+  {
+    "id": "14.5.1",
+    "sdgId": "14.5",
+    "content": "Coverage of protected areas in relation to marine areas"
+  },
+  {
+    "id": "14.6.1",
+    "sdgId": "14.6",
+    "content": "Dollar value of negative fishery subsidies against 2015 baseline"
+  },
+  {
+    "id": "14.7.1",
+    "sdgId": "14.7",
+    "content": "Fisheries as a % of GDP"
+  },
+  {
+    "id": "14.a.1",
+    "sdgId": "14.a",
+    "content": "Budget allocation to research in the field of sustainable marine technology as a percentage of total budget to research"
+  },
+  {
+    "id": "14.b.1",
+    "sdgId": "14.b",
+    "content": "'Proportion of national fishery production by country that are catches by small-medium fishery businesses' or FAO proposal of 'Progress by countries in adopting and implementing legal/regulatory/policy/institutional framework which recognizes and protects access rights for small-scale fisheries'"
+  },
+  {
+    "id": "14.c.1",
+    "sdgId": "14.c",
+    "content": "Number of countries implementing either legally or programmatically the provisions set out in regional seas protocols and ratification and implementation of the ILO Maritime and Fisheries Conventions"
+  },
+  {
+    "id": "15.1.1",
+    "sdgId": "15.1",
+    "content": "Forest area as a percentage of total land area"
+  },
+  {
+    "id": "15.2.1",
+    "sdgId": "15.2",
+    "content": "Forest cover under sustainable forest management"
+  },
+  {
+    "id": "15.2.2",
+    "sdgId": "15.2",
+    "content": "Net permanent forest loss"
+  },
+  {
+    "id": "15.3.1",
+    "sdgId": "15.3",
+    "content": "Percentage of land that is degraded over total land area"
+  },
+  {
+    "id": "15.4.1",
+    "sdgId": "15.4",
+    "content": "Coverage by protected areas of important sites for mountain biodiversity"
+  },
+  {
+    "id": "15.4.2",
+    "sdgId": "15.4",
+    "content": "Mountain Green Cover Index"
+  },
+  {
+    "id": "15.5.1",
+    "sdgId": "15.5",
+    "content": "Red List Index"
+  },
+  {
+    "id": "15.6.1",
+    "sdgId": "15.6",
+    "content": "Number of countries that have adopted legislative, administrative and policy frameworks for the implementation of the Nagoya Protocol"
+  },
+  {
+    "id": "15.7.1",
+    "sdgId": "15.7",
+    "content": "Red List Index for species in trade"
+  },
+  {
+    "id": "15.7.2",
+    "sdgId": "15.7",
+    "content": "Proportion of detected trade in wildlife and wildlife products that is illegal"
+  },
+  {
+    "id": "15.8.1",
+    "sdgId": "15.8",
+    "content": "Adoption of national legislation relevant to the prevention or control of invasive alien species"
+  },
+  {
+    "id": "15.9.1",
+    "sdgId": "15.9",
+    "content": "Number of national development plans and processes integrating biodiversity and ecosystem services values"
+  },
+  {
+    "id": "15.a.1",
+    "sdgId": "15.a",
+    "content": "Official Development Assistance and public expenditure on conservation and sustainable use of biodiversity and ecosystems"
+  },
+  {
+    "id": "15.b.1",
+    "sdgId": "15.b",
+    "content": "Forestry official development assistance and forestry FDI"
+  },
+  {
+    "id": "15.c.1",
+    "sdgId": "15.c",
+    "content": "Proportion of detected trade in wildlife and wildlife products that is illegal"
+  },
+  {
+    "id": "16.1.1",
+    "sdgId": "16.1",
+    "content": "Number of victims of intentional homicide by age, sex, mechanism and where possible type of perpetrator, per 100,000 population"
+  },
+  {
+    "id": "16.1.2",
+    "sdgId": "16.1",
+    "content": "Conflict-related deaths per 100,000 people (disaggregated by age, sex and cause)"
+  },
+  {
+    "id": "16.1.3",
+    "sdgId": "16.1",
+    "content": "Percentage of the population subjected to physical, psychological or sexual violence within the last 12 months"
+  },
+  {
+    "id": "16.1.4",
+    "sdgId": "16.1",
+    "content": "Proportion of people that feel safe walking alone around the area they live"
+  },
+  {
+    "id": "16.2.1",
+    "sdgId": "16.2",
+    "content": "Percentage of children aged 1-17 years who experienced any physical punishment and violent disciplinary measures, in the past 12 months"
+  },
+  {
+    "id": "16.2.2",
+    "sdgId": "16.2",
+    "content": "Number of detected and non-detected victims of human trafficking per 100,000; by sex, age and form of exploitation"
+  },
+  {
+    "id": "16.2.3",
+    "sdgId": "16.2",
+    "content": "Percentage of young women and men aged 18-24 years who experienced sexual violence by age 18"
+  },
+  {
+    "id": "16.3.1",
+    "sdgId": "16.3",
+    "content": "Percentage of victims of violence in the previous 12 months who reported their victimization to competent authorities or other officially recognized conflict resolution mechanisms (also called crime reporting rate)"
+  },
+  {
+    "id": "16.3.2",
+    "sdgId": "16.3",
+    "content": "Unsentenced detainees as percentage of overall prison population"
+  },
+  {
+    "id": "16.4.1",
+    "sdgId": "16.4",
+    "content": "Total value of inward and outward illicit financial flows (in current US$)."
+  },
+  {
+    "id": "16.4.2",
+    "sdgId": "16.4",
+    "content": "Percentage of seized and collected firearms that are recorded and traced, in accordance with international standards and legal instruments"
+  },
+  {
+    "id": "16.4.3",
+    "sdgId": "16.4",
+    "content": "Percentage of small arms marked and recorded at the time of import in accordance with international standards"
+  },
+  {
+    "id": "16.5.1",
+    "sdgId": "16.5",
+    "content": "Percentage of persons who had at least one contact with a public official, who paid a bribe to a public official, or were asked for a bribe by these public officials, during the last 12 months. Disaggregate by age, sex, region and population group."
+  },
+  {
+    "id": "16.6.1",
+    "sdgId": "16.6",
+    "content": "Primary government expenditures as a percentage of original approved budget"
+  },
+  {
+    "id": "16.6.2",
+    "sdgId": "16.6",
+    "content": "Proportion of population satisfied with their last experience of public services"
+  },
+  {
+    "id": "16.7.1",
+    "sdgId": "16.7",
+    "content": "Proportions of positions (by age, sex, disability and population groups) in public institutions (national and local legislatures, public service, and judiciary) compared to national distributions."
+  },
+  {
+    "id": "16.7.2",
+    "sdgId": "16.7",
+    "content": "Proportion of countries that address young people's multisectoral needs with their national development plans and poverty reduction strategies"
+  },
+  {
+    "id": "16.8.1",
+    "sdgId": "16.8",
+    "content": "Percentage of members or voting rights of developing countries in international organizations."
+  },
+  {
+    "id": "16.9.1",
+    "sdgId": "16.9",
+    "content": "Percentage of children under 5 whose births have been registered with civil authority"
+  },
+  {
+    "id": "16.10.1",
+    "sdgId": "16.10",
+    "content": "Number of verified cases of killing, kidnapping, enforced disappearance, arbitrary detention and torture of journalists, associated media personnel, trade unionists and human rights advocates in the previous 12 months"
+  },
+  {
+    "id": "16.a.1",
+    "sdgId": "16.a",
+    "content": "Percentage of victims who report physical and/or sexual crime to law enforcement agencies during past 12 months (Disaggregated by age, sex, region and population group)"
+  },
+  {
+    "id": "16.b.1",
+    "sdgId": "16.b",
+    "content": "Percentage of population reporting having personally felt discriminated against or harassed within the last 12 months on the basis of a ground of discrimination prohibited under international human rights law (Disaggregate by age, sex, region and population group)"
+  },
+  {
+    "id": "17.1.1",
+    "sdgId": "17.1",
+    "content": "Total tax revenue/GDP"
+  },
+  {
+    "id": "17.2.1",
+    "sdgId": "17.2",
+    "content": "Net ODA, total and to LDCs, as percentage of OECD/Development Assistance Committee (DAC) donors' gross national income (GNI)"
+  },
+  {
+    "id": "17.3.1",
+    "sdgId": "17.3",
+    "content": "Foreign Direct Investments as % of total FDI + ODA"
+  },
+  {
+    "id": "17.3.2",
+    "sdgId": "17.3",
+    "content": "Volume of remittances (USD)/GDP"
+  },
+  {
+    "id": "17.4.1",
+    "sdgId": "17.4",
+    "content": "Debt service as a percentage of exports of goods and services"
+  },
+  {
+    "id": "17.5.1",
+    "sdgId": "17.5",
+    "content": "Number of national and investment policy reforms adopted that incorporate sustainable development objectives or safeguards by country"
+  },
+  {
+    "id": "17.6.1",
+    "sdgId": "17.6",
+    "content": "Access to patent information (WIPO Patent Database) and use of the international IP system"
+  },
+  {
+    "id": "17.7.1",
+    "sdgId": "17.7",
+    "content": "Total amount of approved funding for developing countries to promote the development, transfer, dissemination and diffusion of environmentally sound technologies"
+  },
+  {
+    "id": "17.8.1",
+    "sdgId": "17.8",
+    "content": "Proportion of individuals using the Internet."
+  },
+  {
+    "id": "17.9.1",
+    "sdgId": "17.9",
+    "content": "The dollar value of financial and technical assistance, including through North-South, South-South, and triangular cooperation, committed to developing countries' designing and implementing a holistic policy mix that aim at sustainable development in three dimensions (including elements such as reducing inequality within a country and governance)."
+  },
+  {
+    "id": "17.10.1",
+    "sdgId": "17.10",
+    "content": "Worldwide weighted tariff-average (This indicator can be disaggregated and analysed by type of tariff (MFN applied rates and preferential rates), by product sector, by region and by level of development. The unit of measurement will be in % terms. Ad valorem equivalents (AVE) will be calculated for those tariffs that are not expressed in percentage. This methodology also allows for cross-country comparisons. Calculations can be performed on a yearly basis. These calculations are already part of the MDG GAP task force report.)"
+  },
+  {
+    "id": "17.11.1",
+    "sdgId": "17.11",
+    "content": "Developing country's and LDCs' exports (by partner group and key sectors), including services."
+  },
+  {
+    "id": "17.12.1",
+    "sdgId": "17.12",
+    "content": "Average tariffs faced by developing countries and LDCs and SIDs"
+  },
+  { "id": "17.13.1", "sdgId": "17.13", "content": "GD" },
+  {
+    "id": "17.14.1",
+    "sdgId": "17.14",
+    "content": "Number of countries that have ratified and implemented relevant international instruments under the IMO (safety, security, environmental protection, civil liability, and compensation and insurance) and the ILO Maritime Convention, and adopted carbon pricing mechanisms."
+  },
+  {
+    "id": "17.15.1",
+    "sdgId": "17.15",
+    "content": "Numbers of constraints that are embodied in ODA or loan agreements, IIAs, RTAs etc."
+  },
+  {
+    "id": "17.16.1",
+    "sdgId": "17.16",
+    "content": "Indicator 7 from Global Partnership Monitoring Exercise: Mutual accountability among development co-operation actors is strengthened through inclusive reviews"
+  },
+  {
+    "id": "17.17.1",
+    "sdgId": "17.17",
+    "content": "Amount of US$ committed to public-private partnerships"
+  },
+  {
+    "id": "17.18.1",
+    "sdgId": "17.18",
+    "content": "Proportion of sustainable development indicators with full disaggregation produced at the national level."
+  },
+  {
+    "id": "17.18.2",
+    "sdgId": "17.18",
+    "content": "Number of countries that have national statistical legislation that complies with the Fundamental Principles of Official statistics"
+  },
+  {
+    "id": "17.19.1",
+    "sdgId": "17.19",
+    "content": "Financial and other resources made available to strengthen the statistical capacity in developing countries"
+  },
+  {
+    "id": "17.19.2",
+    "sdgId": "17.19",
+    "content": "Inclusive Wealth Index"
+  }
+]
